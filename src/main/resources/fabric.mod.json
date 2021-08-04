@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "csl",
+  "id": "lcsl",
   "version": "${version}",
 
   "name": "Colored Sea Lanterns",
