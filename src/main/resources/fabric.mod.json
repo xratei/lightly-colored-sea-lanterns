@@ -3,7 +3,7 @@
   "id": "lcsl",
   "version": "${version}",
 
-  "name": "Colored Sea Lanterns",
+  "name": "Lightly Colored Sea Lanterns",
   "description": "Add colored Sea Lanterns",
   "authors": [
     "Yhord"
@@ -26,10 +26,10 @@
   ],
 
   "depends": {
-    "fabricloader": ">=0.11.3",
+    "fabricloader": ">=0.12.12",
     "fabric": "*",
-    "minecraft": "1.17.x",
-    "java": ">=16"
+    "minecraft": "1.18.x",
+    "java": ">=17"
   },
   "suggests": {
     "another-mod": "*"
