@@ -9,3 +9,6 @@ D = Dye
 S S S  
 S D S = Dyed Sea Lantern Block  
 S S S
+
+### Lightly Colored Sea Lanterns (Forge)
+Lightly Colored Sea Lanterns Forge : [GitHub repository](https://github.com/Yhord/lightly-colored-sea-lanterns-forge)
