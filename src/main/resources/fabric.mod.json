@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "lcsl",
-  "version": "${version}",
+  "version": "${version}+1.18",
 
   "name": "Lightly Colored Sea Lanterns",
   "description": "Add colored Sea Lanterns",
